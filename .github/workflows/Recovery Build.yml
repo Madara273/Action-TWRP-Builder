@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/Madara273/NUBIA_NX666J_TWRP.git'
+        default: 'https://github.com/Madara273/nubia_nx666j'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
@@ -22,7 +22,7 @@ on:
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
-        default: 'device/NUBIA/NX666J'
+        default: 'device/nubia/nx666j'
       COMMON_TREE_URL:
         description: 'COMMON_TREE_URL (if no common tree, leave blank)'
         required: false
